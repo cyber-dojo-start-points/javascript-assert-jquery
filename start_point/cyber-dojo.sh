@@ -1,5 +1,5 @@
 
-export NODE_PATH=/usr/local/lib/node_modules
+ln -s /etc/jquery/node_modules ${CYBER_DOJO_SANDBOX}/node_modules
 
 if [ -f .jshintrc ]; then
   jshint --config .jshintrc *.js
