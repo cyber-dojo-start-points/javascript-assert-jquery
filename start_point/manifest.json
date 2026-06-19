@@ -1,5 +1,13 @@
 {
   "display_name": "JavaScript 25.8, assert+jQuery 3.7.1",
+  "language": [
+    "JavaScript",
+    "25.8"
+  ],
+  "test_framework": [
+    "jQuery,assert",
+    "3.7.1"
+  ],
   "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_assert_jquery:24b37ca",
   "visible_filenames": [
     "hikerTest.js",
