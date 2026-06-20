@@ -5,7 +5,7 @@
     "25.8"
   ],
   "test_framework": [
-    "jQuery,assert",
+    "jQuery, assert",
     "3.7.1"
   ],
   "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_assert_jquery:24b37ca",
