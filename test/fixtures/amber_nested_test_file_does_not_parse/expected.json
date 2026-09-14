@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^All tests passed$": 1,
+    "^SyntaxError: ": 1,
+    "^nested answerSizeTest ran$": 0,
+    "^AssertionError": 0,
+    "^[0-9]+ errors?$": 0
+  },
+  "truncated": false
+}

@@ -1,0 +1,10 @@
+{
+  "matches": [ "^Error: ENOENT: no such file or directory, open 'hiker\\.html'$" ],
+  "match_counts": {
+    "^Error: ENOENT: no such file or directory, open 'hiker\\.html'$": 1,
+    "^  code: 'ENOENT',$": 1,
+    "^All tests passed$": 0,
+    "^AssertionError": 0,
+    "^[0-9]+ errors?$": 0
+  }
+}
