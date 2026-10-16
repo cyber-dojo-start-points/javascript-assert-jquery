@@ -6,12 +6,12 @@ module.exports = {
 };
 
 const fs = require('fs');
-const jquery = require('jquery');
+const { jQueryFactory } = require('jquery/factory');
 const { JSDOM } = require('jsdom');
 
 function dom(html) {
   const dom = new JSDOM(html);
-  return jquery(dom.window);
+  return jQueryFactory(dom.window);
 }
 
 function file(filename) {
