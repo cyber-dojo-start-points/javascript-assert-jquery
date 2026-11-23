@@ -1,14 +1,14 @@
 {
-  "display_name": "JavaScript 26.13.1, assert+jQuery 4.0.0",
+  "display_name": "JavaScript 26.13.1, assert+jQuery 4.1.0",
   "language": [
     "JavaScript",
     "26.13.1"
   ],
   "test_framework": [
     "jQuery, assert",
-    "4.0.0"
+    "4.1.0"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_assert_jquery:259df51@sha256:90ac1e7cb926396db7d4f3e0cd8470c37c3db6c56697c4c7025fbb3fbfb660d8",
+  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_assert_jquery:259df51@sha256:20fb4aca81cd343d2675bf80b9f8ccc413ffc1f1cedb17e0060b098de2bb85ed",
   "visible_filenames": [
     "hikerTest.js",
     "hiker.js",
